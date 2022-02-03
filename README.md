@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on updates for **My Calendar**
 - 🌱 I’m currently learning **iOS Developing**
-- 📫 How to reach me: [bryangomezcarranza@gmail.com]
+- 📫 How to reach me: bryangomezcarranza@gmail.com
 - ⚡ Fun fact: I am bilingual and I like to work out!
 
 <!--
