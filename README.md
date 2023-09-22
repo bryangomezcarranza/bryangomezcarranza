@@ -1,7 +1,7 @@
 ### Hi there, I am Bryan 👋
 
-- 👨🏻‍💻 New project **CalisFit**
-- 🔭 I’m currently working on updates for **My Calendar**
+- 👨🏻‍💻 New project **SwiftAgenda**
+- 🔭 I’m currently working on lerning visionOS
 - 🌱 I’m currently learning **iOS Developing**
 - 📫 How to reach me: bryangomezcarranza@gmail.com
 - ⚡ Fun fact: I am bilingual and I like to work out!
